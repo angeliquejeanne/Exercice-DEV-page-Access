@@ -169,4 +169,13 @@ label::after {
   background-color: #ebebeb;
   font-size: 1.4rem;
 }
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem;
+  text-align: center;
+}
 /*# sourceMappingURL=styles.css.map */
